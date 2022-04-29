@@ -12,7 +12,9 @@ Save and submit the completed file for your homework submission.
 ![pic 1](image/Homework6_1.png)   
 
 2. Give your secret user a password: 
-    - `Your solution command here`
+    - `Rockstars`
+
+![pic 2](image/Homework6_2.png)    
 
 3. Give your secret user a system UID < 1000:
     - `Your solution command here`
